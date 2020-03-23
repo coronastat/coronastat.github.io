@@ -1,0 +1,218 @@
+[
+  {
+    "S. No.": 1,
+    "Name of State": "Andhra Pradesh",
+    "Total Confirmed cases (Indian National)": 5,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 5,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 2,
+    "Name of State": "Bihar",
+    "Total Confirmed cases (Indian National)": 2,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 2,
+    "Cured": 0,
+    "Death": 1
+  },
+  {
+    "S. No.": 3,
+    "Name of State": "Chhattisgarh",
+    "Total Confirmed cases (Indian National)": 1,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 1,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 4,
+    "Name of State": "Delhi",
+    "Total Confirmed cases (Indian National)": 28,
+    "Total Confirmed cases ( Foreign National )": 1,
+    "Total Confirmed cases": 29,
+    "Cured": 5,
+    "Death": 1
+  },
+  {
+    "S. No.": 5,
+    "Name of State": "Gujarat",
+    "Total Confirmed cases (Indian National)": 18,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 18,
+    "Cured": 0,
+    "Death": 1
+  },
+  {
+    "S. No.": 6,
+    "Name of State": "Haryana",
+    "Total Confirmed cases (Indian National)": 7,
+    "Total Confirmed cases ( Foreign National )": 14,
+    "Total Confirmed cases": 21,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 7,
+    "Name of State": "Himachal Pradesh",
+    "Total Confirmed cases (Indian National)": 2,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 2,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 8,
+    "Name of State": "Karnataka",
+    "Total Confirmed cases (Indian National)": 26,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 26,
+    "Cured": 2,
+    "Death": 1
+  },
+  {
+    "S. No.": 9,
+    "Name of State": "Kerala",
+    "Total Confirmed cases (Indian National)": 60,
+    "Total Confirmed cases ( Foreign National )": 7,
+    "Total Confirmed cases": 67,
+    "Cured": 3,
+    "Death": 0
+  },
+  {
+    "S. No.": 10,
+    "Name of State": "Madhya Pradesh",
+    "Total Confirmed cases (Indian National)": 6,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 6,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 11,
+    "Name of State": "Maharashtra",
+    "Total Confirmed cases (Indian National)": 64,
+    "Total Confirmed cases ( Foreign National )": 3,
+    "Total Confirmed cases": 67,
+    "Cured": 0,
+    "Death": 2
+  },
+  {
+    "S. No.": 12,
+    "Name of State": "Odisha",
+    "Total Confirmed cases (Indian National)": 2,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 2,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 13,
+    "Name of State": "Puducherry",
+    "Total Confirmed cases (Indian National)": 1,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 1,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 14,
+    "Name of State": "Punjab",
+    "Total Confirmed cases (Indian National)": 21,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 21,
+    "Cured": 0,
+    "Death": 1
+  },
+  {
+    "S. No.": 15,
+    "Name of State": "Rajasthan",
+    "Total Confirmed cases (Indian National)": 25,
+    "Total Confirmed cases ( Foreign National )": 2,
+    "Total Confirmed cases": 27,
+    "Cured": 3,
+    "Death": 0
+  },
+  {
+    "S. No.": 16,
+    "Name of State": "Tamil Nadu",
+    "Total Confirmed cases (Indian National)": 7,
+    "Total Confirmed cases ( Foreign National )": 2,
+    "Total Confirmed cases": 9,
+    "Cured": 1,
+    "Death": 0
+  },
+  {
+    "S. No.": 17,
+    "Name of State": "Telengana",
+    "Total Confirmed cases (Indian National)": 15,
+    "Total Confirmed cases ( Foreign National )": 11,
+    "Total Confirmed cases": 26,
+    "Cured": 1,
+    "Death": 0
+  },
+  {
+    "S. No.": 18,
+    "Name of State": "Chandigarh",
+    "Total Confirmed cases (Indian National)": 5,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 5,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 19,
+    "Name of State": "Jammu and Kashmir",
+    "Total Confirmed cases (Indian National)": 4,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 4,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 20,
+    "Name of State": "Ladakh",
+    "Total Confirmed cases (Indian National)": 13,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 13,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 21,
+    "Name of State": "Uttar Pradesh",
+    "Total Confirmed cases (Indian National)": 27,
+    "Total Confirmed cases ( Foreign National )": 1,
+    "Total Confirmed cases": 28,
+    "Cured": 9,
+    "Death": 0
+  },
+  {
+    "S. No.": 22,
+    "Name of State": "Uttarakhand",
+    "Total Confirmed cases (Indian National)": 3,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 3,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": 23,
+    "Name of State": "West Bengal",
+    "Total Confirmed cases (Indian National)": 7,
+    "Total Confirmed cases ( Foreign National )": 0,
+    "Total Confirmed cases": 7,
+    "Cured": 0,
+    "Death": 0
+  },
+  {
+    "S. No.": "Total number of confirmed cases in India",
+    "Name of State": "",
+    "Total Confirmed cases (Indian National)": 349,
+    "Total Confirmed cases ( Foreign National )": 41,
+    "Total Confirmed cases": 390,
+    "Cured": 24,
+    "Death": 7
+  }
+]
